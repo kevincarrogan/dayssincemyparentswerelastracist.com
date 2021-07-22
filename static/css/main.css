@@ -1,0 +1,24 @@
+html {
+    color: #222;
+}
+
+body {
+    font-size: 2em;
+    line-height: 1.4;
+    margin: 0 auto;
+    max-width: 1200px;
+    min-width: 960px;
+    padding: 2rem 0;
+    text-align: center;
+    width: 80%;
+}
+
+main > h1 {
+    font-size: 200%;
+}
+
+main > p {
+    font-size: 1600%;
+    font-weight: bold;
+    margin: 1rem 0;
+}
